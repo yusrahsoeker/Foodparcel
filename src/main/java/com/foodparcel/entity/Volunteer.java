@@ -86,6 +86,7 @@ public class Volunteer {
 
             this.availability = volunteer.availability;
             this.diliveriesMade = volunteer.deliveriesMade;
+            this.homeLanguge = volunteer.homeLanguage;
             this.province = volunteer.province;
             this.hoursWorked = volunteer.hoursWorked;
 

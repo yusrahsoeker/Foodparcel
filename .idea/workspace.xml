@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Volunteer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Volunteer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Volunteer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,11 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="CraigAngelo" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Foodparcel" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -75,20 +79,36 @@
       <updated>1592825468188</updated>
       <workItem from="1592825469888" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Volunteer Entity">
+      <created>1593284328253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593284328253</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Volunteer Entity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Volunteer Entity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1593282968240">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
     <state x="485" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1360.768@0.0.1360.768" timestamp="1593282968240" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1593284159271">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1593296674191">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1593284159271" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.768@0.0.1360.768" timestamp="1593296674191" />
+    <state x="457" y="250" key="Github.CreatePullRequestDialog" timestamp="1593284797806">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="457" y="250" key="Github.CreatePullRequestDialog/0.0.1360.768@0.0.1360.768" timestamp="1593284797806" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -105,10 +125,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592825587262" />
-    <state x="272" y="116" key="Vcs.Push.Dialog.v2" timestamp="1593284301029">
+    <state x="272" y="116" key="Vcs.Push.Dialog.v2" timestamp="1593284353143">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
-    <state x="272" y="116" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1593284301029" />
+    <state x="272" y="116" key="Vcs.Push.Dialog.v2/0.0.1360.768@0.0.1360.768" timestamp="1593284353143" />
+    <state x="270" y="112" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1593284790044">
+      <screen x="0" y="0" width="1360" height="768" />
+    </state>
+    <state x="270" y="112" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1360.768@0.0.1360.768" timestamp="1593284790044" />
     <state x="343" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593280973899">
       <screen x="0" y="0" width="1360" height="768" />
     </state>
