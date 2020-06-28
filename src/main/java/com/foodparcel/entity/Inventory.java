@@ -5,7 +5,7 @@ public class Inventory {
     private int parcelReceived;
     private int parcelOut;
 
-//Inventory Builder
+
     private Inventory(Builder builder){
         this.parcelReceived = builder.parcelReceived;
         this.parcelOut = builder.parcelOut;
