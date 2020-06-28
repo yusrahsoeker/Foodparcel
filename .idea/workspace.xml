@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Scheduler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,8 +78,16 @@
       <workItem from="1592937823182" duration="639000" />
       <workItem from="1593192547455" duration="8179000" />
       <workItem from="1593280371073" duration="6504000" />
-      <workItem from="1593333387573" duration="3789000" />
+      <workItem from="1593333387573" duration="5908000" />
     </task>
+    <task id="LOCAL-00001" summary="small change">
+      <created>1593340509856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593340509856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,15 +104,23 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="small change" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1593337625570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593337625570" />
-    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1593340380111">
+    <state x="255" y="0" key="CommitChangelistDialog2" timestamp="1593340520867">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593340380111" />
+    <state x="255" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1593340520867" />
+    <state x="129" y="61" key="DiffContextDialog" timestamp="1593340474619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1593340474619" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

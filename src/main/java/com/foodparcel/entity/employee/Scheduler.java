@@ -17,12 +17,12 @@ public class Scheduler extends Employee {
     public static class SchedulerBuilder extends Employee.Builder{
 
         public SchedulerBuilder copy(Scheduler scheduler){
-            this.employeeNumber = scheduler.getEmployeeNumber();
-            this.identityNumber = scheduler.getIdentityNumber();
-            this.firstName = scheduler.getFirstName();
-            this.lastName = scheduler.getLastName();
-            this.jobTitle = scheduler.getJobTitle();
-            this.employmentDate = scheduler.getEmploymentDate();
+            super.setEmployeeNumber(scheduler.getEmployeeNumber());
+            super.setIdentityNumber(scheduler.getIdentityNumber());
+            super.setFirstName(scheduler.getFirstName());
+            super.setLastName(scheduler.getLastName());
+            super.setJobTitle(scheduler.getJobTitle());
+            super.setEmploymentDate(scheduler.getEmploymentDate());
             return this;
         }
 

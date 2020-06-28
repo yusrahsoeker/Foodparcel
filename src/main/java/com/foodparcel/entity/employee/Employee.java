@@ -85,20 +85,6 @@ public abstract class Employee {
             return this;
         }
 
-
-        public Builder copy(Employee employee){
-            this.employeeNumber = employee.employeeNumber;
-            this.identityNumber = employee.identityNumber;
-            this.firstName = employee.firstName;
-            this.lastName = employee.lastName;
-            this.jobTitle = employee.jobTitle;
-            this.employmentDate = employee.employmentDate;
-            return this;
-        }
-
         public abstract Employee build();
-//        {
-//            return new Employee();
-//        }
     }
 }

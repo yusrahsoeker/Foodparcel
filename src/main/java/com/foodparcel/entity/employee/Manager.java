@@ -36,12 +36,12 @@ public class Manager extends Employee {
         }
 
         public ManagerBuilder copy(Manager manager){
-            this.employeeNumber = manager.getEmployeeNumber();
-            this.identityNumber = manager.getIdentityNumber();
-            this.firstName = manager.getFirstName();
-            this.lastName = manager.getLastName();
-            this.jobTitle = manager.getJobTitle();
-            this.employmentDate = manager.getEmploymentDate();
+            super.setEmployeeNumber(manager.getEmployeeNumber());
+            super.setIdentityNumber(manager.getIdentityNumber());
+            super.setFirstName(manager.getFirstName());
+            super.setLastName(manager.getLastName());
+            super.setJobTitle(manager.getJobTitle());
+            super.setEmploymentDate(manager.getEmploymentDate());
             this.department = manager.getDepartment();
             return this;
         }
