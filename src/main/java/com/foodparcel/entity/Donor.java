@@ -90,6 +90,16 @@ public class Donor {
             this.phoneNumber = phoneNumber;
             return this;
         }
+
+        public Builder copy (Builder builder) {
+            this.firstName = builder.firstName;
+            this.surname = builder.surname;
+            this.email = builder.email;
+            this.id = builder.id;
+            this.phoneNumber = builder.phoneNumber;
+            return this;
+        }
+
         public Donor build() {
             return new Donor (this);
         }
