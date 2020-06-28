@@ -1,4 +1,4 @@
-package com.foodparcel.entity;
+package com.foodparcel.entity.Donate;
 
 public class Donor {
     public String firstName, surname, email, id, phoneNumber;
