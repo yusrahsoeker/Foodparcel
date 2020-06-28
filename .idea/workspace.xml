@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Scheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Scheduler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +74,9 @@
       <workItem from="1592937823182" duration="639000" />
       <workItem from="1593192547455" duration="8179000" />
       <workItem from="1593280371073" duration="6504000" />
-      <workItem from="1593333387573" duration="5908000" />
+      <workItem from="1593333387573" duration="6633000" />
+      <workItem from="1593345557645" duration="8000" />
+      <workItem from="1593364127064" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1593340509856</created>
@@ -98,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -137,9 +137,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592825587262" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593333391408">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593364129936">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593333391408" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593364129936" />
   </component>
 </project>
