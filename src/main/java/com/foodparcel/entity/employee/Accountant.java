@@ -4,7 +4,7 @@ public class Accountant  extends Employee{
 
     public Accountant(){}
 
-    public Accountant(Builder builder) {
+    public Accountant(AccountantBuilder builder) {
         super(builder);
     }
 

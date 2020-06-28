@@ -1,7 +1,8 @@
 package com.foodparcel.entity.employee;
 
 public abstract class Employee {
-    private String employeeNumber, identityNumber, firstName, lastName, jobTitle, employmentDate;
+    private String employeeNumber, identityNumber, firstName, lastName,  employmentDate;
+    private Job jobTitle;
 
     public Employee() {}
 
@@ -30,7 +31,7 @@ public abstract class Employee {
         return lastName;
     }
 
-    public String getJobTitle() {
+    public Job getJobTitle() {
         return jobTitle;
     }
 
@@ -51,7 +52,8 @@ public abstract class Employee {
     }
 
     public static abstract class Builder {
-        private String employeeNumber, identityNumber, firstName, lastName, jobTitle, employmentDate;
+        private String employeeNumber, identityNumber, firstName, lastName, employmentDate;
+        private Job jobTitle;
 
         public Builder setEmployeeNumber(String employeeNumber) {
             this.employeeNumber = employeeNumber;
@@ -73,7 +75,7 @@ public abstract class Employee {
             return this;
         }
 
-        public Builder setJobTitle(String jobTitle) {
+        public Builder setJobTitle(Job jobTitle) {
             this.jobTitle = jobTitle;
             return this;
         }
@@ -82,6 +84,7 @@ public abstract class Employee {
             this.employmentDate = employmentDate;
             return this;
         }
+
 
         public Builder copy(Employee employee){
             this.employeeNumber = employee.employeeNumber;
