@@ -91,7 +91,7 @@ public class Donor {
             return this;
         }
 
-        public Builder copy (Builder builder) {
+        public Builder copy (Donor donor) {
             this.firstName = builder.firstName;
             this.surname = builder.surname;
             this.email = builder.email;
