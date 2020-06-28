@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="" />
+    <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Delivery.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,10 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,6 +40,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.foodparcel.entity" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -63,6 +76,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="760" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1593340456081">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="760" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1593340456081" />
+    <state x="490" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592937288811">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="490" y="235" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1592937288811" />
+    <state x="371" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593339949040">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1593339949040" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -79,5 +104,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592825587262" />
+    <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593344958846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1593344958846" />
   </component>
 </project>
