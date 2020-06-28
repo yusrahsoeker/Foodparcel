@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/Delivery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +68,22 @@
       <updated>1592825468188</updated>
       <workItem from="1592825469888" duration="118000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated Deliver.java">
+      <created>1593345008547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593345008547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Deliver.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Deliver.java" />
   </component>
   <component name="WindowStateProjectService">
     <state x="760" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1593340456081">
@@ -88,6 +98,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="371" y="93" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1593339949040" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1593345005282">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1593345005282" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -108,5 +122,20 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="450" y="263" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.689@0.0.1280.689" timestamp="1593344958846" />
+    <state x="415" y="138" key="git4idea.merge.GitMergeDialog" timestamp="1593345113948">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="415" y="138" key="git4idea.merge.GitMergeDialog/0.0.1280.689@0.0.1280.689" timestamp="1593345113948" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/Downloads/Foodparcel-master/Foodparcel-master/target/classes/com/foodparcel/entity/Delivery.class</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
