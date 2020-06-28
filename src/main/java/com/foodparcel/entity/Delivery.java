@@ -10,6 +10,7 @@ public class Delivery {
         this.deliveryAddress = builder.deliveryAddress;
         this.deliveryDate = builder.deliveryDate;
         this.delivered = builder.delivered;
+        
 
     }
 
