@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="" />
+    <list default="true" id="7f22c215-0d4b-4097-8aa8-263a26bdb318" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Accountant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/foodparcel/entity/employee/Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1dfoNZsNLwLur50EMsRuRAZ96oF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,6 +66,10 @@
       <option name="presentableId" value="Default" />
       <updated>1592825468188</updated>
       <workItem from="1592825469888" duration="118000" />
+      <workItem from="1592937823182" duration="639000" />
+      <workItem from="1593192547455" duration="8179000" />
+      <workItem from="1593280371073" duration="6504000" />
+      <workItem from="1593333387573" duration="2422000" />
     </task>
     <servers />
   </component>
@@ -63,6 +77,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1593337625570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="829" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1593337625570" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -79,5 +97,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592825587262" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1593333391408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1593333391408" />
   </component>
 </project>
