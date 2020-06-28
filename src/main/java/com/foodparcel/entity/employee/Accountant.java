@@ -16,11 +16,11 @@ public class Accountant  extends Employee{
     public static class AccountantBuilder extends Employee.Builder{
 
         public AccountantBuilder copy(Accountant accountant){
-            this.employeeNumber =  accountant.getEmployeeNumber();
-            this.identityNumber =  accountant.getIdentityNumber();
-            this.firstName =  accountant.getFirstName();
-            this.lastName =  accountant.getLastName();
-            this.jobTitle =  accountant.getJobTitle();
+            super.setEmployeeNumber(accountant.getEmployeeNumber());
+            super.setIdentityNumber(accountant.getIdentityNumber());
+            super.setFirstName(accountant.getFirstName());
+            super.setLastName(accountant.getLastName());
+            super.setJobTitle(accountant.getJobTitle());
             return this;
         }
 

@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
+
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,10 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
+
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
 
@@ -137,7 +135,6 @@
       <workItem from="1592937823182" duration="639000" />
       <workItem from="1593192547455" duration="8179000" />
       <workItem from="1593280371073" duration="6504000" />
-      <workItem from="1593333387573" duration="2422000" />
 
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -185,11 +182,28 @@
     <MESSAGE value="Application" />
     <option name="LAST_COMMIT_MESSAGE" value="Application" />
   </component>
+
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="small change" />
+    <option name="LAST_COMMIT_MESSAGE" value="small change" />
+
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated Deliver.java" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated Deliver.java" />
   </component>
   <component name="WindowStateProjectService">
+
 
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1592825587262">
       <screen x="0" y="0" width="1366" height="728" />
@@ -207,6 +221,7 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592825587262" />
+
 
   </component>
 </project>
