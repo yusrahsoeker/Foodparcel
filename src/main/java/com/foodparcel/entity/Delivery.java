@@ -2,8 +2,8 @@ package com.foodparcel.entity;
 
 public class Delivery {
 
-    public String deliveryAddress, deliveryDate;
-    public Boolean delivered;
+    private String deliveryAddress, deliveryDate;
+    private Boolean delivered;
 
 
     public Delivery(Builder builder) {
@@ -35,8 +35,8 @@ public class Delivery {
     }
 
     public static class Builder{
-        public String deliveryAddress, deliveryDate;
-        public Boolean delivered;
+        private String deliveryAddress, deliveryDate;
+        private Boolean delivered;
 
         public Builder setDeliveryAddress(String deliveryAddress){
             this.deliveryAddress = deliveryAddress;
