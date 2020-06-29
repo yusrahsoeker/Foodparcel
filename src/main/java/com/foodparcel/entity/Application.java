@@ -1,4 +1,4 @@
-package com.foodparcel.entity.employee;
+package com.foodparcel.entity;
 
 public class Application {
     private int id , contactNumber , numberOfDependants ;
@@ -62,31 +62,31 @@ public class Application {
         private double income;
 
 
-        public  Builder setid(int id) {
+        public Builder setid(int id) {
             this.id = id;
             return  this;
         }
-        public  Builder setcontactNumber(int contactNumber) {
+        public Builder setcontactNumber(int contactNumber) {
             this.contactNumber = contactNumber;
             return  this;
         }
-        public  Builder setnumberOfDependants (int numberOfDependants){
+        public Builder setnumberOfDependants (int numberOfDependants){
             this.numberOfDependants = numberOfDependants;
             return  this;
         }
-        public  Builder setfirstName(String firstName) {
+        public Builder setfirstName(String firstName) {
             this.firstName = firstName;
             return  this;
         }
-        public  Builder setlastName(String lastName) {
+        public Builder setlastName(String lastName) {
             this.lastName = lastName;
             return  this;
         }
-        public  Builder sethomeAddress(String homeAdrress) {
+        public Builder sethomeAddress(String homeAdrress) {
             this.homeAdrress = homeAdrress;
             return  this;
         }
-        public  Builder setIncome (double income){
+        public Builder setIncome (double income){
             this.income = income;
             return  this;
         }
@@ -106,5 +106,5 @@ public class Application {
 
         }
     }
-
 }
+
