@@ -92,11 +92,11 @@ public class Donor {
         }
 
         public Builder copy (Donor donor) {
-            this.firstName = builder.firstName;
-            this.surname = builder.surname;
-            this.email = builder.email;
-            this.id = builder.id;
-            this.phoneNumber = builder.phoneNumber;
+            this.firstName = donor.firstName;
+            this.surname = donor.surname;
+            this.email = donor.email;
+            this.id = donor.id;
+            this.phoneNumber = donor.phoneNumber;
             return this;
         }
 
